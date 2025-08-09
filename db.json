@@ -1,0 +1,24 @@
+{
+  "users": [],
+  "tasks": [
+    {
+      "id": "task_visit_1",
+      "title": "Visit a site and return",
+      "description": "Click START, wait on the pages and return to claim ₹2.00",
+      "category": "Visit",
+      "reward": 2,
+      "priority": 10,
+      "active": true
+    },
+    {
+      "id": "task_quiz_1",
+      "title": "Quick 3-question quiz",
+      "description": "Answer 3 simple questions, finish to claim ₹5.00",
+      "category": "Quiz",
+      "reward": 5,
+      "priority": 9,
+      "active": true
+    }
+  ],
+  "completions": []
+}
